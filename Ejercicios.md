@@ -1,5 +1,3 @@
-Ejercicios solicitados:
-
 Variables y Operadores:
 
 Concatenar dos variables de tipo String y guardar el resultado en una tercera variable.
